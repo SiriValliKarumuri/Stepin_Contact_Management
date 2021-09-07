@@ -1,11 +1,12 @@
-# Cash Flow Manager
+# Contact Management System
 # Requirements
 ## Introduction
- -Cashflow Manager is an application the enables users have a track of their day to day cash inflow and outflow. This application will help to get a clear idea of their income and expenses. The application makes users aware of unnecessary expense and helps to understand money management.
+  Contact Management System is a simple console application without graphics that is developed in the C/C++ platform. For developing a code, this C/C++ project will also provide tutorial and basic guides for the user. Moreover, the user can Download zip and edit as per their need as this project is open-source. The main aim of this project is to provide an application that will be helpful to manage staff contact details in the organization or office. It’s close to the cell phone contact manager. Moreover, it helps to add, delete, edit, and view all the staff’s contact details which are basically stored in a folder.
+ 
 
 ## Research
 
--- Cashflow application is essential part of this generation as money needs to be managed efficiently therefore application is designed to keep a track of Income-Expense of the users.
+-- Contact Management system application is essential part of this generation as people needs to be managed efficiently therefore application is designed to keep a track of calls of the users.
 ### Benefits
 --There are many application available in market but this application is user-friendly and can be easy managed by uses to keep track of their savings after their expenses being deducted from the various sources of income of the user. 
 ### Overview
@@ -22,32 +23,31 @@ CSV etc files for the user expenses be it daily or monthly.
 daily expenditure easily 
 
 ### Features
---CashFlow Application allows
 
-Name of the user
+* The project provides file handling, data structure, functions, and pointer which makes this simple C mini-project.
 
-Income to be added
+* The user can add new contacts with information such as name, phone number, address, and email.
 
-Grocery Expense
+* List all contacts: lists all the contacts stored in a file with their respective contact details.
 
-Other Expense
-
-Will ask for option to confirm if you have Other sources of income 
-
-if yes then u will have to add the income generates
-
-With the data given it will show the monthly saving done by the user after balancing the cashflow.
-
-This will be really helpful for budget planning for users for upcoming months and any event.
+* Search contacts: based on name and phone number
+ 
+* Edit contacts: edit information given while adding the contacts
+ 
+* Delete contacts: delete contacts from a file.
+ 
+* Developed using the C++ language.
+ 
+* Easy to operate and understandable.
 
 ## Defining Our System
-   CASHFLOW Management Application have few inbuilt features like:
+   CONTACT Management Application have few inbuilt features like:
 
-Create a new user record of income
-Read a User record
-create the income sources for user
-view the users cashflow
-view users saving
+. Add new contacts
+. List all contacts
+. Search contacts
+. Edit contacts
+. Delete contacts
 
 ## SWOT ANALYSIS
 
