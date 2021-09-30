@@ -6,6 +6,6 @@
   <img src="https://www.code-inspector.com/project/27857/status/svg"/>
 </a>
 
-![usecase](https://user-images.githubusercontent.com/89719399/135443581-6a4fe23a-b489-4544-bfb5-504ed625ac5b.png)
+<img src="https://user-images.githubusercontent.com/89719399/135443581-6a4fe23a-b489-4544-bfb5-504ed625ac5b.png"/>
 
 
